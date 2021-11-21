@@ -1,8 +1,4 @@
 ### Oi, eu sou o Vitor ! 👋😄
-- 🔭 REACT JS / REACT NATIVE
-- 🌱 Estudando Mysql/NoSql 
-- 👯 Meu e-mail vitor.diamantino8@gmail.com
-- 👋 Vivência em times ágeis(Scrum/Kanban)
 
 <div align="center">
   <a href="https://github.com/vsdiaman">
