@@ -1,4 +1,4 @@
-### Oi, eu sou o Vitor ! 👋😄
+### Hello, i'm Vitor ! 👋😄
 
 ##
 
