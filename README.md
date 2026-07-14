@@ -46,10 +46,4 @@ Parte da minha produção recente está em repositórios privados corporativos, 
   <a href="https://www.linkedin.com/in/vitordiamantino" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/vsdiaman" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.huolongstudios.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
 </div>
