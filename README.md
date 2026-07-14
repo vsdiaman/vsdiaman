@@ -1,39 +1,102 @@
-### Hello, i'm Vitor ! 👋😄
+# Olá, eu sou Vitor Diamantino 👋
 
-##
+Desenvolvedor Full Stack com experiência em aplicações web, mobile e backend.
+
+Atuo principalmente com **React Native, React, TypeScript, Node.js, Express, Firebase e APIs REST**.
+
+Atualmente trabalho em aplicações em produção, contribuindo com novas funcionalidades, correções de bugs, integrações, releases, pull requests, testes e melhoria contínua de código.
+
+Parte da minha produção recente está em repositórios privados corporativos, mas mantenho projetos públicos para demonstrar organização, arquitetura e evolução técnica.
+
+---
+
+## Stack principal
+
+<div>
+  <img align="center" alt="TypeScript" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="JavaScript" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Express" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="center" alt="Firebase" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="PostgreSQL" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Git" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="AWS" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+</div>
+
+---
+
+## Experiência técnica
+
+- Desenvolvimento de aplicações mobile com **React Native**
+- Desenvolvimento web com **React, TypeScript, Vite e Next.js**
+- Backend com **Node.js, Express, NestJS e APIs REST**
+- Integrações com **Firebase, Firestore, FCM, OAuth2 e Stripe**
+- Banco de dados com **PostgreSQL, Prisma ORM e Firebase**
+- Testes com **Jest, React Testing Library e Cypress**
+- Deploy, suporte e configuração de ambientes com **AWS EC2**
+- Revisão de pull requests, correção de bugs e refatoração de código
+
+---
+
+## Projetos em destaque
+
+### AskPDF
+
+Aplicação full stack para análise de documentos, utilizando **React** no frontend e **NestJS com TypeScript** no backend.
+
+- Frontend: React, TypeScript
+- Backend: NestJS, TypeScript
+- Integrações: Firebase e API da OpenAI
+
+Repositórios:
+
+- https://github.com/vsdiaman/frontendaskpdf
+- https://github.com/vsdiaman/backend-chatPDF
+
+### Scan Pronto PDF
+
+Aplicativo mobile desenvolvido em **React Native** para escaneamento de documentos, exportação para PDF/JPG e publicação na Google Play.
+
+- React Native
+- Detecção e recorte de documentos
+- Histórico de digitalizações
+- Exportação para PDF/JPG
+
+Repositório:
+
+- https://github.com/vsdiaman/scanprontopdf
+
+Google Play:
+
+- https://play.google.com/store/apps/details?id=br.com.huolong.scanprontopdf
+
+---
+
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/vsdiaman">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vsdiaman&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsdiaman&layout=compact&langs_count=7&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vsdiaman&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsdiaman&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vit-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Vit-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vit-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vit-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vit-bulma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
-  <img align="center" alt="Vit-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">    
-  <img align="center" alt="Vit-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Vit-wordprass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
-  <img align="center" alt="Vit-mysql" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Vit-git" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-  <img align="center" alt="Vit-github" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Vit-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+
+---
+
+## Contato
+
+<div>
+  <a href="mailto:vitor.diamantino8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/vitordiamantino" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/vsdiaman" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.huolongstudios.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </div>
-  
-  ##
-  
-<div> 
-    <a href="https://instagram.com/vitor.diamantino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:vitor.diamantino8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/vitordiamantino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://api.whatsapp.com/send?phone=5538999708560" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    <a href="https://trybecourse.slack.com/ssb/redirect" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
-   <a href="https://www.twitch.tv/vitor_diamantino" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   <a href="https://steamcommunity.com/id/vitordiamantino/" target="_blank"><img  src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-</div>
-  
-  
